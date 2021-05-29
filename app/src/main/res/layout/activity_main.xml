@@ -38,7 +38,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="ToNewPerson"
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="50dp"
         android:text="@string/newPersonButton"
         app:layout_constraintBottom_toTopOf="@+id/patient"
         app:layout_constraintEnd_toEndOf="parent"
