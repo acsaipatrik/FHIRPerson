@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Person</string>
+    <string name="person">Person</string>
+    <string name="fhirimage">fhirImage</string>
+    <string name="welcomeString">Üdvözöllek a FHIR Person kezdőfelületén</string>
+    <string name="listButton">A személyek kilistázása</string>
+    <string name="patientButton">Az ápolt személyek kilistázása</string>
+    <string name="newPersonButton">Új személy hozzáadása</string>
+    <string name="newPersonTextView">Új személy felvétele</string>
+    <string name="PatientName">Személy neve</string>
+    <string name="PatientTelecom">Személy telefonszáma</string>
+    <string name="PatientAddressEditText">Személy lakcíme</string>
+    <string name="otherRB">Egyéb</string>
+    <string name="femaleRB">Nő</string>
+    <string name="maleRB">Férfi</string>
+    <string name="activeRB">Aktív</string>
+    <string name="inactiveRB">Inaktív</string>
+    <string name="createPatient">Személy felvétele</string>
+    <string name="cancel">Mégse</string>
+    <string name="PatientBirthDateEditText">Személy születési dátuma</string>
+    <string name="szemelynev">Személynév</string>
+    <string name="neme">Neme</string>
+    <string name="openButton">Megnyitás</string>
+    <string name="update">Frissítés</string>
+    <string name="delete">Törlés</string>
+    <string name="allapota">Állapota</string>
+    <string name="updatePerson">Személy frissítése</string>
+    <string name="updatePersonTitle">Adatok megváltoztatása</string>
+    <string name="oldestPerson">A legidősebb páciens</string>
+    <string name="todayBorn">Ma születtek</string>
+</resources>
